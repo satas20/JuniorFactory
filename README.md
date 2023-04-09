@@ -12,8 +12,8 @@ This is my Demo for attending JuniorFactory incubation program I just made a bas
 
 <p >
   <img src="Media/SS1.png" width="350" >
-  <img src="Media/SS2.png" height="255">
+  <img src="Media/SS2.png" width="350">
 </p>
 Gameplay of the Demo
-<img src="Media/Drift.gif" width="800">
+<img src="Media/Run1.gif" width="800">
 
